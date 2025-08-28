@@ -26,19 +26,15 @@ This repository contains two versions of a command-line quiz game built with Pyt
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/kajol-sarker/Simple-Quiz-Game.git>
     ```
-2.  **Navigate to the project directory:**
+2.  **To run the Basic Quiz:**
     ```bash
-    cd <project-directory-name>
+    beginner-level.py
     ```
-3.  **To run the Basic Quiz:**
+3.  **To run the Category-Based Quiz:**
     ```bash
-    python quiz_game_basic.py
-    ```
-4.  **To run the Category-Based Quiz:**
-    ```bash
-    python quiz_game_advanced.py
+    intermediate-level.py
     ```
 
 ### Example Usage (Category-Based Quiz)
